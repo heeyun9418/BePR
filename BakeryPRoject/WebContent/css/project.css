@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* font-family: 'Amatic SC', cursive; */
+/* font-family: 'Architects Daughter', cursive; */
+/* font-family: 'Big Shoulders Inline Text', cursive; */
+/* font-family: 'Dokdo', cursive; */
+/* font-family: 'Julius Sans One', sans-serif; */
+/* font-family: 'Nanum Brush Script', cursive; */
+/* font-family: 'Racing Sans One', cursive; */
+/* font-family: 'Stalinist One', cursive; */
+h2 {
+	font-family: 'Racing Sans One', cursive;
+}
+
+body {
+	font-family: 'Architects Daughter', cursive;
+}
